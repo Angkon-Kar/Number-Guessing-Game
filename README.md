@@ -21,7 +21,7 @@ A fun and interactive console-based game written in C++ where you try to guess a
 
 1. Clone the repository or download the source code files.
    ```bash
-   git clone https://github.com/Angkon-Kar/Number-Guessing-Game.git
+   https://github.com/Angkon-Kar/Number-Guessing-Game.git
    ```
 
 2. Open the file in your favorite C++ IDE or text editor.
@@ -78,4 +78,4 @@ Feel free to fork this repository, improve the code, and submit a pull request. 
 ---
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [https://github.com/Angkon-Kar/LICENSE.git] file for details.
